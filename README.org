@@ -1,1 +1,13 @@
 * Advent of Code 2019 (Rust)
+** Requirements
+
+- =rust=, some recent version
+- =cargo-aoc=, version 0.2.2
+
+** Running
+
+=cargo-aoc= expects the input files at a specific location. See its [[https://github.com/gobanos/cargo-aoc/blob/master/README.md][README]] for more details. With the input files in place, simply run:
+
+#+BEGIN_SRC sh
+cargo aoc
+#+END_SRC

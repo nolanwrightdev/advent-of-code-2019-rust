@@ -1,0 +1,10 @@
+[package]
+name = "advent-of-code-2019"
+version = "0.1.0"
+authors = ["Nolan Wright <nolan@nolanwright.dev>"]
+edition = "2018"
+license = "Unlicense"
+
+[dependencies]
+aoc-runner = "0.2.2"
+aoc-runner-derive = "0.2.2"
